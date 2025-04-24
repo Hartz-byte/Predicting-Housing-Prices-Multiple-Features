@@ -1,4 +1,4 @@
-# 🏡 Multivariable House Price Prediction
+# Multivariable House Price Prediction
 
 Welcome to the **House Price Prediction** project! This is an enhanced version of the classic regression problem using **Multivariable Linear Regression**. Instead of predicting house prices based on just one feature (e.g., square footage), we’re taking a more realistic approach by using **multiple features** such as number of bedrooms, bathrooms, location rating, and age of the house.
 
@@ -6,7 +6,7 @@ This project is a great starting point for showcasing foundational machine learn
 
 ---
 
-## 📌 Project Goals
+## Project Goals
 
 - Generate a **synthetic housing dataset** with multiple meaningful features.
 - Use **Linear Regression** to predict housing prices.
@@ -15,7 +15,7 @@ This project is a great starting point for showcasing foundational machine learn
 
 ---
 
-## 🧠 Features Used
+## Features Used
 
 - `SquareFeet`: Area of the house
 - `Bedrooms`: Total number of bedrooms
@@ -29,7 +29,7 @@ These features are used to predict the target variable:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Library       | Purpose                                |
 |---------------|----------------------------------------|
