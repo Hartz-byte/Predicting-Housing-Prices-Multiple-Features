@@ -1,3 +1,8 @@
+![Task: Regression](https://img.shields.io/badge/ML_Type-Regression-lightblue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-blue?logo=scikit-learn)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Hartz-byte.Predicting-Housing-Prices-Multiple-Features)
+
 # Multivariable House Price Prediction
 
 Welcome to the **House Price Prediction** project! This is an enhanced version of the classic regression problem using **Multivariable Linear Regression**. Instead of predicting house prices based on just one feature (e.g., square footage), we’re taking a more realistic approach by using **multiple features** such as number of bedrooms, bathrooms, location rating, and age of the house.
