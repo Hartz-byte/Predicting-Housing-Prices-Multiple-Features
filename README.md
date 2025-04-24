@@ -41,7 +41,7 @@ These features are used to predict the target variable:
 
 ---
 
-📊 Model Evaluation
+Model Evaluation
 Train/Test Split: 80/20
 
 Evaluation Metrics:
@@ -52,14 +52,14 @@ R² Score: Indicates how well data fits the regression model.
 
 ---
 
-📈 Output Visualization
+Output Visualization
 Scatter Plot comparing Actual Prices vs Predicted Prices.
 
 Helps visualize the accuracy of the model predictions.
 
 ---
 
-🔍 Example Workflow
+Example Workflow
 Synthetic Data Creation using NumPy
 
 DataFrame Assembly with Pandas
@@ -76,7 +76,7 @@ Visualization using Matplotlib
 
 ---
 
-📚 Learning Outcomes
+Learning Outcomes
 Handling multivariate data for regression
 
 Building end-to-end ML workflows
