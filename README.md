@@ -1,7 +1,6 @@
 ![Task: Regression](https://img.shields.io/badge/ML_Type-Regression-lightblue)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-blue?logo=scikit-learn)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Hartz-byte.Predicting-Housing-Prices-Multiple-Features)
 
 # Multivariable House Price Prediction
 
